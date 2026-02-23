@@ -2,7 +2,7 @@
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
-Due to the lack of maintainers and increased code complexity, ВНИМАНИЕ: branch2 - проект устарел, рекомендуется перейти на [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera).
+Due to the lack of maintainers and increased code complexity, ВНИМАНИЕ: branch2 - проект устарел, в branch2 советуем заменить на [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera).
 
 VisionCamera offers new APIs, better performance, improved stability and more features.
 It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and used in many production apps.
